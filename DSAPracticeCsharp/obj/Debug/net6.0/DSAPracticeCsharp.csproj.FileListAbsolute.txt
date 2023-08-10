@@ -1,0 +1,15 @@
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\bin\Debug\net6.0\DSAPracticeCsharp.exe
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\bin\Debug\net6.0\DSAPracticeCsharp.deps.json
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\bin\Debug\net6.0\DSAPracticeCsharp.runtimeconfig.json
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\bin\Debug\net6.0\DSAPracticeCsharp.dll
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\bin\Debug\net6.0\DSAPracticeCsharp.pdb
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.AssemblyInfo.cs
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.dll
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\refint\DSAPracticeCsharp.dll
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.pdb
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\DSAPracticeCsharp.genruntimeconfig.cache
+C:\Users\a\source\repos\DSAPracticeCsharp\DSAPracticeCsharp\obj\Debug\net6.0\ref\DSAPracticeCsharp.dll
